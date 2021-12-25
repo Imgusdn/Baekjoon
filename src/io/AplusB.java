@@ -1,4 +1,4 @@
-package aplusb;
+package io;
 
 import java.util.Scanner;
 
